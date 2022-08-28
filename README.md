@@ -38,6 +38,8 @@ By the way, creating issues is fun too!
 
 ![Screenshot](gif/jump.gif)
 
+
+
 **NB!**
 - **Your pull-request may not be reviewed very quickly, please have patience.**
 - **If you need help with a PR (e.g. resolving merge conflict) ask the community for support**
